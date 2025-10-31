@@ -1,4 +1,3 @@
 def Saludar():
-    print("¡Hola, mundo!")
-    print("¡Bienvenido a Python!")
+    print("¡Hola, estudiantes del TEC!")
     print("Github es genial para el control de versiones.")
